@@ -55,6 +55,7 @@ Note that if you do not implement the commands that define Connect6 rules (`gogu
 4. ホームディレクトリ(例：`./`)に戻り、このリポジトリをダウンロードしてください（例：`git clone xxxx`）。
 5. ダミープレイヤーを試すには、GoGuiのメニューから「Program」->「New Program」を選択し、「Command」で`./connect6_platform/connect6.py`（リポジトリを置いた場所）を指定してください。正しく実行できない場合は、`python ./connect6_platform/connect6.py`や`python3`など、環境に依存するコマンドで試してください。
 6. 成功すると画面は次のようになります：
+![attach_success](./fig/attach_success.png)
 7. 「Game」->「Computer Color」->「Both」を選ぶことで、ランダムプレイヤー同士を対戦させることができます。
 
 ## 自分のプログラムを書く
